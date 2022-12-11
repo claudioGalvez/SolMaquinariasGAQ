@@ -1,0 +1,14 @@
+C:\Users\Claudio\source\repos\SolMaquinariasGAQ\CapaPresentacion\bin\Debug\CapaPresentacion.pdb
+C:\Users\Claudio\source\repos\SolMaquinariasGAQ\CapaPresentacion\bin\Debug\CapaNegocio.dll
+C:\Users\Claudio\source\repos\SolMaquinariasGAQ\CapaPresentacion\bin\Debug\CapaNegocio.pdb
+C:\Users\Claudio\source\repos\SolMaquinariasGAQ\CapaPresentacion\obj\Debug\CapaPresentacion.csprojAssemblyReference.cache
+C:\Users\Claudio\source\repos\SolMaquinariasGAQ\CapaPresentacion\obj\Debug\CapaPresentacion.Login.resources
+C:\Users\Claudio\source\repos\SolMaquinariasGAQ\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.GenerateResource.cache
+C:\Users\Claudio\source\repos\SolMaquinariasGAQ\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CoreCompileInputs.cache
+C:\Users\Claudio\source\repos\SolMaquinariasGAQ\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CopyComplete
+C:\Users\Claudio\source\repos\SolMaquinariasGAQ\CapaPresentacion\obj\Debug\CapaPresentacion.pdb
+C:\Users\Claudio\source\repos\SolMaquinariasGAQ\CapaPresentacion\bin\Debug\CapaPresentacion.exe
+C:\Users\Claudio\source\repos\SolMaquinariasGAQ\CapaPresentacion\obj\Debug\CapaPresentacion.exe
+C:\Users\Claudio\source\repos\SolMaquinariasGAQ\CapaPresentacion\bin\Debug\CapaDatos.dll
+C:\Users\Claudio\source\repos\SolMaquinariasGAQ\CapaPresentacion\bin\Debug\CapaDatos.pdb
+C:\Users\Claudio\source\repos\SolMaquinariasGAQ\CapaPresentacion\obj\Debug\CapaPresentacion.Principal.resources
